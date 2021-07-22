@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/matheus-tabarelli-272801176/">
    <img alt="Matheus' LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/maheustabarelli_/">
+<a href="https://www.instagram.com/matheustabarelli_/">
    <img alt="Matheus' Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="mailto:12tabarelli@gmail.com">
