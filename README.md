@@ -2,7 +2,7 @@
 
 #### My name is Matheus Tabarelli
 
-- 🚀 I’m Full Stack Developer in training 
+- 🚀 I’m a Full Stack Developer in training 
 - 💻 Working hard to achieve my goals
 - ✨ Knowledge is power
 
