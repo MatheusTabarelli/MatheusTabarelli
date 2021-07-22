@@ -6,8 +6,8 @@
 - 💻 Working hard to achieve my goals
 - ✨ Knowledge is power
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=frozrt&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frozrt&layout=compact&theme=gotham&custom_title=Statistics)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusTabarelli&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTabarelli&layout=compact&theme=gotham&custom_title=Statistics)  
 #### Languages and tools:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
