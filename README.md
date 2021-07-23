@@ -18,7 +18,7 @@
 
 🔗 Get in touch with me through the attached links:  
 
-<a href="https://www.linkedin.com/in/matheus-tabarelli-272801176/">
+<a href="https://www.linkedin.com/in/matheustabarelli">
    <img alt="Matheus' LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/matheustabarelli_/">
