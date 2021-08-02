@@ -23,7 +23,7 @@
 <a href="https://www.instagram.com/matheustabarelli_/">
    <img alt="Matheus' Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="mailto:12tabarelli@gmail.com">
+<a href="mailto:matheus_tabarelli@outlook.com">
    <img alt="Matheus' Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
